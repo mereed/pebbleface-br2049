@@ -1,0 +1,122 @@
+{
+    "author": "chops",
+    "dependencies": {
+        "pebble-clay": "^1.0.2"
+    },
+    "keywords": [],
+    "name": "br2049",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "BR2049",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "digtime"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/font",
+                    "name": "FONT_MINI_20",
+                    "targetPlatforms": null,
+                    "trackingAdjust": 2,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/font",
+                    "name": "FONT_MINI_30",
+                    "targetPlatforms": null,
+                    "trackingAdjust": 1,
+                    "type": "font"
+                },
+                {
+                    "file": "images/backgrp0ound",
+                    "name": "IMAGE_BACKGROUND",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/menu",
+                    "menuIcon": true,
+                    "name": "MENU_IMAGE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_9",
+                    "name": "IMAGE_BATT_9",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_10",
+                    "name": "IMAGE_BATT_10",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_1",
+                    "name": "IMAGE_BATT_1",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_2",
+                    "name": "IMAGE_BATT_2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_3",
+                    "name": "IMAGE_BATT_3",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_4",
+                    "name": "IMAGE_BATT_4",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_5",
+                    "name": "IMAGE_BATT_5",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_6",
+                    "name": "IMAGE_BATT_6",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_7",
+                    "name": "IMAGE_BATT_7",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_BATT_8",
+                    "name": "IMAGE_BATT_8",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "b0ceec20-bcb0-4b2f-8c7d-1533d92908a2",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
